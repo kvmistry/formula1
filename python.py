@@ -4,7 +4,7 @@ from PIL import Image
 
 st.set_page_config(page_title='Data Analytics Project', page_icon='favicon.png', layout="centered", initial_sidebar_state="auto")
 
-
+st.text("hI")
 st.markdown(
 '''
 <font color='Red' size='25'><b>Welcome to Data Analytics Project!!</b></font>
